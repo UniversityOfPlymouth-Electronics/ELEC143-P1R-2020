@@ -1,5 +1,5 @@
-# ELEC143-P1-2020
-Template for ELEC143 P1R Coursework
+# ELEC143-P1R-2020
+Template for ELEC143 P1R Coursework (Referred)
 
 Change Log:
 
